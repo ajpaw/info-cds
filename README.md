@@ -1,3 +1,5 @@
+# Frequency and informativity of phonological input directed to children in the first four years of life
+
 This repo contains the following files:
 1. engCDSutils.py
 2. cleaningPipeline.ipynb
